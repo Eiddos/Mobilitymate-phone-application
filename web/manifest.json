@@ -1,6 +1,6 @@
 {
-    "name": "rondom_number",
-    "short_name": "rondom_number",
+    "name": "mobilitymate",
+    "short_name": "mobilitymate",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

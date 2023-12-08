@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "rondom_number" "\0"
+            VALUE "FileDescription", "mobilitymate" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "rondom_number" "\0"
+            VALUE "InternalName", "mobilitymate" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2023 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "rondom_number.exe" "\0"
-            VALUE "ProductName", "rondom_number" "\0"
+            VALUE "OriginalFilename", "mobilitymate.exe" "\0"
+            VALUE "ProductName", "mobilitymate" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
